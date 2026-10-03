@@ -23,4 +23,4 @@ Interactive Tableau dashboard of U.S. adult obesity by state using CDC BRFSS dat
 - The average is the mean of state values, not population-weighted.
 - States without data for a selected year are excluded.
 
-![Dashboard overview](Dashboard_Overview.png)
+<img width="1199" height="799" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/48802e4b-4708-45dc-a032-54f0377a24fa" />
