@@ -22,4 +22,4 @@ The average state obesity rate rose about 6.1 percentage points from 2011 to [la
 - The average is the mean of state values, not population-weighted.
 - States without data for a selected year are excluded.
 
-![Dashboard Overview](Dashboard_Overview.png)
+   ![Dashboard overview](Dashboard_Overview.png)
